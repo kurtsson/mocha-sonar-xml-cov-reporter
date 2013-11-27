@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmcleod/mocha-teamcity-cov-reporter.git"
+    "url": "https://github.com/cmmcleod/mocha-teamcity-cov-reporter.git"
   },
   "keywords": [
     "mocha",
@@ -23,6 +23,6 @@
   "author": "Colin McLeod",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cmcleod/mocha-teamcity-cov-reporter/issues"
+    "url": "https://github.com/cmmcleod/mocha-teamcity-cov-reporter/issues"
   }
 }
