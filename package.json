@@ -1,7 +1,7 @@
 {
-  "name": "mocha-teamcity-reporter",
-  "version": "0.0.2",
-  "description": "teamcity reporter for mocha",
+  "name": "mocha-teamcity-cov-reporter",
+  "version": "0.0.1",
+  "description": "teamcity code coverage reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
   "scripts": {
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/travisjeffery/mocha-teamcity-reporter.git"
+    "url": "https://github.com/cmcleod/mocha-teamcity-cov-reporter.git"
   },
   "keywords": [
     "mocha",
     "teamcity",
     "reporter",
-    "jetbrains"
+    "coverage"
   ],
   "dependencies": {
     "mocha": ">=1.13.0"
   },
-  "author": "travis jeffery",
+  "author": "Colin McLeod",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/travisjeffery/mocha-teamcity-reporter/issues"
+    "url": "https://github.com/cmcleod/mocha-teamcity-cov-reporter/issues"
   }
 }
