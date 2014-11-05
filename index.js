@@ -1,1 +1,1 @@
-module.exports = require('./lib/teamcity-cov');
+module.exports = require('./lib/sonar-xml-cov');

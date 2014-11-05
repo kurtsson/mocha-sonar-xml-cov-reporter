@@ -1,7 +1,7 @@
 {
-  "name": "mocha-teamcity-cov-reporter",
+  "name": "mocha-sonar-xml-cov-reporter",
   "version": "0.0.1",
-  "description": "teamcity code coverage reporter for mocha",
+  "description": "Sonar code coverage reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
   "scripts": {
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cmmcleod/mocha-teamcity-cov-reporter.git"
+    "url": "https://github.com/kurtsson/sonar-teamcity-cov-reporter.git"
   },
   "keywords": [
     "mocha",
-    "teamcity",
+    "sonar",
     "reporter",
     "coverage"
   ],
   "dependencies": {
-    "mocha": ">=1.13.0"
+    "mocha": "~>2.0.0"
   },
-  "author": "Colin McLeod",
+  "author": "Martin kurtsson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cmmcleod/mocha-teamcity-cov-reporter/issues"
+    "url": "https://github.com/kurtsson/mocha-sonar-cov-reporter/issues"
   }
 }
