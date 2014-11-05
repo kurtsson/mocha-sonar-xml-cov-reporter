@@ -1,6 +1,6 @@
 {
   "name": "mocha-sonar-xml-cov-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sonar code coverage reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
