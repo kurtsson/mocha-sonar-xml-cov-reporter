@@ -1,6 +1,6 @@
 {
   "name": "mocha-sonar-xml-cov-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sonar code coverage reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kurtsson/sonar-teamcity-cov-reporter.git"
+    "url": "https://github.com/kurtsson/mocha-sonar-xml-cov-reporter.git"
   },
   "keywords": [
     "mocha",
@@ -23,6 +23,6 @@
   "author": "Martin kurtsson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kurtsson/mocha-sonar-cov-reporter/issues"
+    "url": "https://github.com/kurtsson/mocha-sonar-xml-cov-reporter/issues"
   }
 }
