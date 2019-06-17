@@ -1,6 +1,6 @@
 # Mocha reporter for SonarQube General test coverage
 
-This reporter outputs the coverage report using the XML format for the SonarQube General Test Coverage plugin <http://docs.codehaus.org/display/SONAR/Generic+Test+Coverage>
+This reporter outputs the coverage report using the XML format for the SonarQube General Test Coverage plugin <https://docs.sonarqube.org/display/PLUG/Generic+Test+Coverage>
 
 https://github.com/visionmedia/mocha/wiki/Third-party-reporters describes using third party reporters in mocha.
 
